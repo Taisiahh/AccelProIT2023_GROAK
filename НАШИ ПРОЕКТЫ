@@ -1,0 +1,249 @@
+!DOCTYPE html>
+<head>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+
+<body>
+  <div class="bg-gray-100">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32">
+        <h2 class="text-4xl font-bold text-gray-900">ЭКСПЕРТЫ</h2>
+  
+        <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.vkusvill.ru/pim/images/site_LargeWebP/acf10d7e-6f24-4f21-88ef-3eebcb7db55c.webp?1661972555.2343">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                элегантный круасан(вожатый..)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио круасана</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR922nvCMTwzBgRoo3GKs_a24tWBWScQ51OPg&usqp=CAU">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булочка с джэмом(Паша)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио булки с джэмом</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.freepik.com/premium-photo/one-bun-with-poppy-seeds-isolated-on-white-background_71985-3951.jpg">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булочка с карицей(Ярик)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио Ярика</p>
+          </div>
+        </div>
+
+        <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.freepik.com/premium-photo/two-spun-buns-with-sugar-on-a-white-background_648344-4322.jpg">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булочка с сахаром(Татьяна)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио булочки с сахаром</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmrQ5XwHXLCl-MyamIE1D2iVR9F25900aFXN1qO02q3Kr87iofY88fJl6pqBXdtRU6SI4&usqp=CAU">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                очень сладкая булочка(Кюнней)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио лучшей и очень вкусной булочки</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.freepik.com/premium-photo/bun-isolated-on-white-background_287084-287.jpg">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булка (Аян)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио</p>
+          </div>
+        </div>
+
+        <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.vkusvill.ru/pim/images/site_LargeWebP/acf10d7e-6f24-4f21-88ef-3eebcb7db55c.webp?1661972555.2343">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                элегантный круасан(вожатый..)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио круасана</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR922nvCMTwzBgRoo3GKs_a24tWBWScQ51OPg&usqp=CAU">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булочка с джэмом(Паша)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио булки с джэмом</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.freepik.com/premium-photo/one-bun-with-poppy-seeds-isolated-on-white-background_71985-3951.jpg">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булочка с карицей(Ярик)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио Ярика</p>
+          </div>
+        </div>
+
+        <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.freepik.com/premium-photo/two-spun-buns-with-sugar-on-a-white-background_648344-4322.jpg">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булочка с сахаром(Татьяна)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио булочки с сахаром</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmrQ5XwHXLCl-MyamIE1D2iVR9F25900aFXN1qO02q3Kr87iofY88fJl6pqBXdtRU6SI4&usqp=CAU">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                очень сладкая булочка(Кюнней)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио лучшей и очень вкусной булочки</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.freepik.com/premium-photo/bun-isolated-on-white-background_287084-287.jpg">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булка (Аян)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио</p>
+          </div>
+        </div>
+
+        <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.vkusvill.ru/pim/images/site_LargeWebP/acf10d7e-6f24-4f21-88ef-3eebcb7db55c.webp?1661972555.2343">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                элегантный круасан(вожатый..)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио круасана</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR922nvCMTwzBgRoo3GKs_a24tWBWScQ51OPg&usqp=CAU">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булочка с джэмом(Паша)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио булки с джэмом</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.freepik.com/premium-photo/one-bun-with-poppy-seeds-isolated-on-white-background_71985-3951.jpg">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булочка с карицей(Ярик)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио Ярика</p>
+          </div>
+        </div>
+
+        <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.freepik.com/premium-photo/two-spun-buns-with-sugar-on-a-white-background_648344-4322.jpg">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булочка с сахаром(Татьяна)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио булочки с сахаром</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmrQ5XwHXLCl-MyamIE1D2iVR9F25900aFXN1qO02q3Kr87iofY88fJl6pqBXdtRU6SI4&usqp=CAU">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                очень сладкая булочка(Кюнней)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио лучшей и очень вкусной булочки</p>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://img.freepik.com/premium-photo/bun-isolated-on-white-background_287084-287.jpg">
+            </div>
+            <h3 class="mt-6 text-sm text-gray-500">
+              <a href="#">
+                <span class="absolute inset-0"></span>
+                булка (Аян)
+              </a>
+            </h3>
+            <p class="text-base font-semibold text-gray-900">Партфолио</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
