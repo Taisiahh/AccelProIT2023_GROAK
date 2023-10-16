@@ -66,12 +66,30 @@
         <img src="https://cdn.discordapp.com/attachments/1109126329594564669/1157208682120101939/a893ad6cae05eb38.png?ex=653b5e91&is=6528e991&hm=5f02f13cc1bf939c60c322bae9a2a96b0dd0568780c13addd17485ff8ccb3007&">
       </div>
 
-        <div class="text-left text-center text-center mt-16 ml-40 mr-40">
+        <div class="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://cdn.discordapp.com/attachments/1109126329594564669/1157242646419488840/7fdb2b45d82dca15.png?ex=653b7e33&is=65290933&hm=5a048b1d9a8eb9f7c1f3bc331ca595265c0b58ebf073ea487d01f74b0e6939c0&">
+            </div>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://cdn.discordapp.com/attachments/1109126329594564669/1157219110334251028/b7779b136b406911.png?ex=653b6847&is=6528f347&hm=a00ea9c6a5fda24550bdb1ae6823db31077b77f482ce2b11847db40e746fb4f8&">
+            </div>
+          </div>
+          <div class="group relative">
+            <div class="drop-shadow-lg relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 sm:h-64">
+              <img src="https://cdn.discordapp.com/attachments/1109126329594564669/1157223851822960710/d5c8c2e2187d5902.png?ex=653b6cb2&is=6528f7b2&hm=4d8bb03b8973ce74939dab6c370c7df6265e5a4757c29a93110ecfb274dad786&">
+            </div>
+          </div>
+        </div>
+
+        <div class="text-left text-center text-center mt-24 ml-40 mr-40">
           <p class="text-4xl font-bold leading-6 text-gray-900">ОТЗЫВЫ</p>
           <p class="text-2xl font-semibold leading-6 text-gray-900 mt-8">Я не могу нарадоваться, насколько положительным опытом стала для меня помощь с грантами от этой компании. Их команда профессионалов внимательно выслушала мои цели и потребности, затем разработала стратегию и помогла мне подготовить заявку. Результат был потрясающим – я получил грант, который помог моему проекту дальше развиваться. Благодарю!</p>
         </div>
 
-        <div class="mt-20">
+        <div class="mt-28">
           <p class="text-2xl font-medium text-gray-900">Email</p>
           <a href="DinoZavr@gmail.com" class="text-xl font-semibold text-gray-900 underline">DinoZavr@gmail.com</a>
           <div>
