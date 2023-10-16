@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<head>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+
+<body class="bg-white">
+  <div class="bg-white">
+    <header class="absolute inset-x-0 top-0 z-50">
+      <nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
+        <div class="flex lg:flex-1">
+          <a href="#" class="-m-0.5 p-0.5">
+            <span class="sr-only">Your Company</span>
+            <img class="h-40 w-auto" src="https://media.discordapp.net/attachments/1109126329594564669/1162718069391622215/32.png?ex=653cf496&is=652a7f96&hm=0f0749bf809929bf9f54827b9e954e252868136026202cc4bd88a886320ece34&=&width=525&height=525" alt="">
+          </a>
+        </div>
+        <div class="flex lg:hidden">
+          <button type="button" class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700">
+            <span class="sr-only">Open main menu</span>
+            <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+            </svg>
+          </button>
+        </div>
+        <div class="hidden lg:flex lg:gap-x-10">
+          <a href="О НАС.html" class="text-3xl font-semibold leading-6 text-gray-900">О НАС</a>
+          <a href="НАШИ ПРОЕКТЫ.html" class="text-3xl font-semibold leading-6 text-gray-900">ЭКСПЕРТЫ</a>
+        </div>
+        <div class="hidden lg:flex lg:flex-1 lg:justify-end">
+          <a href="ПРОФИЛЬ.html" class="text-3xl font-semibold leading-6 text-gray-900">ПРОФИЛЬ <span aria-hidden="true">&rarr;</span></a>
+        </div>
+      </nav>
+      <!-- Mobile menu, show/hide based on menu open state. -->
+      <div class="lg:hidden" role="dialog" aria-modal="true">
+        <!-- Background backdrop, show/hide based on slide-over state. -->
+        <div class="fixed inset-0 z-50"></div>
+        <div class="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
+          <div class="flex items-center justify-between">
+            <a href="#" class="-m-1.5 p-1.5">
+              <span class="sr-only">Your Company</span>
+              <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="">
+            </a>
+            <button type="button" class="-m-2.5 rounded-md p-2.5 text-gray-700">
+              <span class="sr-only">Close menu</span>
+              <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+          </div>
+          <div class="mt-6 flow-root">
+            <div class="-my-6 divide-y divide-gray-500/10">
+              <div class="space-y-2 py-6">
+                <a href="О НАС.html" class="-mx-3 block rounded-lg px-3 py-2 t3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">НОВОСТИ</a>
+                <a href="ДОКУМЕНТЫ.html" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">ШАБЛОНЫ</a>
+              </div>
+              <div class="py-6">
+                <a href="#" class="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">ПОДАТЬ ЗАЯВКУ</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+      <div class="mt-52">
+        <img src="https://cdn.discordapp.com/attachments/1109126329594564669/1157208682120101939/a893ad6cae05eb38.png?ex=653b5e91&is=6528e991&hm=5f02f13cc1bf939c60c322bae9a2a96b0dd0568780c13addd17485ff8ccb3007&">
+      </div>
+
+        <div class="text-left text-center text-center mt-16 ml-40 mr-40">
+          <p class="text-4xl font-bold leading-6 text-gray-900">ОТЗЫВЫ</p>
+          <p class="text-2xl font-semibold leading-6 text-gray-900 mt-8">Я не могу нарадоваться, насколько положительным опытом стала для меня помощь с грантами от этой компании. Их команда профессионалов внимательно выслушала мои цели и потребности, затем разработала стратегию и помогла мне подготовить заявку. Результат был потрясающим – я получил грант, который помог моему проекту дальше развиваться. Благодарю!</p>
+        </div>
+
+        <div class="mt-20">
+          <p class="text-2xl font-medium text-gray-900">Email</p>
+          <a href="DinoZavr@gmail.com" class="text-xl font-semibold text-gray-900 underline">DinoZavr@gmail.com</a>
+          <div>
+            <p class="text-2xl font-medium text-gray-900">Номер</p>
+          <a href="DinoZavr@gmail.com" class="text-xl font-semibold text-gray-900 underline">+7(757)-868-23-11</a>
+          </div>
+        </div>
+        
+  </div>
+</body>
