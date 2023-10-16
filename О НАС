@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+
+<body>
+  <div class="relative overflow-hidden bg-white">
+    <div class="pb-80 pt-16 sm:pb-40 sm:pt-24 lg:pb-48 lg:pt-40">
+      <div class="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
+        <div class="sm:max-w-lg">
+          <img  src="https://cdn.discordapp.com/attachments/1109126329594564669/1163059252257103992/d64abdeaf64a7028.png?ex=653e3256&is=652bbd56&hm=28d80f1f13362f0007f058ca479c38375a7d187a3b95724384f5c49a940dbd7e&">
+          <p class="mt-4 text-xl text-gray-500">Команда GROAK - это группа людей, которые участвуют в хакатонах. Мы работаем вместе, чтобы создавать новые и инновационные решения, как правило, в области технологий. Участники команды GROAK имеют разные навыки, такие как программирование, дизайн и бизнес-стратегия, и мы сотрудничаем, чтобы разработать проект, который решит определенную проблему или задачу. Команды на хакатонах обычно работают в ограниченное время, чтобы создать прототип или приложение, и соревнуются за призы и признание в своей способности решать сложные задачи быстро и креативно.</p>
+        </div>
+        <div>
+          <div class="mt-10">
+            <!-- Decorative image grid -->
+            <div aria-hidden="true" class="pointer-events-none lg:absolute lg:inset-y-0 lg:mx-auto lg:w-full lg:max-w-7xl">
+              <div class="absolute transform sm:left-1/2 sm:top-0 sm:translate-x-8 lg:left-1/2 lg:top-1/2 lg:-translate-y-1/2 lg:translate-x-8">
+                <div class="flex items-center space-x-6 lg:space-x-8">
+                  <div class="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
+                    <div class="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100">
+                      <img src="https://media.discordapp.net/attachments/1109126538047279224/1163040215108173864/1.png?ex=653e209b&is=652bab9b&hm=1fe5234eb7b86f50dcc399b5c237146aa7fdf28f55216d5946a805fd785ed099&=&width=768&height=768" alt="" class="h-full w-full object-cover object-center">
+                    </div>
+                    <div class="h-64 w-44 overflow-hidden rounded-lg">
+                      <img src="https://media.discordapp.net/attachments/1109126538047279224/1163040215397572679/2.png?ex=653e209b&is=652bab9b&hm=4d6368547046c8752a1ce6b07c4e94fb9df122e2f8475f39dd974b0a8f7fa7f3&=&width=768&height=768" alt="" class="h-full w-full object-cover object-center">
+                    </div>
+                  </div>
+                  <div class="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
+                    <div class="h-64 w-44 overflow-hidden rounded-lg">
+                      <img src="https://media.discordapp.net/attachments/1109126538047279224/1163045983282802749/4.png?ex=653e25fa&is=652bb0fa&hm=debdbaf1cf6628092ab998110390e524de2300e336f840b23c2eedec1e378611&=&width=768&height=768" alt="" class="h-full w-full object-cover object-center">
+                    </div>
+                    <div class="h-64 w-44 overflow-hidden rounded-lg">
+                      <img src="https://cdn.discordapp.com/attachments/1109126329594564669/1163050372387053679/44120f3a9532a490.png?ex=653e2a11&is=652bb511&hm=21dbd23cbeb752bc06d057d8a0042b35e2a176de00fdf7270d8451d0533c2dc0&" alt="" class="h-full w-full object-cover object-center">
+                    </div>
+                    <div class="h-64 w-44 overflow-hidden rounded-lg">
+                      <img src="https://media.discordapp.net/attachments/1109126538047279224/1163039203584659471/3.png?ex=653e1faa&is=652baaaa&hm=5eff07aa931e544f736bdefbcdf8519ba42a80a8c72aabb7fa243f17a7a87e93&=&width=768&height=768" alt="" class="h-full w-full object-cover object-center">
+                    </div>
+                  </div>
+                  <div class="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
+                    <div class="h-64 w-44 overflow-hidden rounded-lg">
+                      <img src="https://cdn.discordapp.com/attachments/1109126538047279224/1162707620835110964/IMG_20230928_234740ssssssss.jpg?ex=653ceada&is=652a75da&hm=bcf12412cfbd5f6b1ab0e2244555aaffd8bfdd76c389b7b200d7226e2c2e4c76&" alt="" class="h-full w-full object-cover object-center">
+                    </div>
+                    <div class="h-64 w-44 overflow-hidden rounded-lg">
+                      <img src="https://cdn.discordapp.com/attachments/1109126538047279224/1162707729438228560/IMG_20230928_234740sssssssszz.jpg?ex=653ceaf4&is=652a75f4&hm=84f07cf44ea219b424706c805a5e49c5669032a8c44b0b5814a29a8dc817229f&" alt="" class="h-full w-full object-cover object-center">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+  
+            <a href="https://vk.com/groak_rawr" class="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700">НАШ ВК</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
